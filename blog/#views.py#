@@ -1,0 +1,4 @@
+from django.shortcuts import render
+blog/views.py
+
+# Create your views here.
